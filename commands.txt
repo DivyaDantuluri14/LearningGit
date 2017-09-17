@@ -1,1 +1,3 @@
-i am practising commands in git
+i am practising commands in git.
+
+this is interesting to learn
